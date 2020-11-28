@@ -22,7 +22,7 @@
 20. What is Prop Type
 21. Protected Route
 22. JWT Tocken
-23. How to update parent component fromchild component
+23. How to update parent component to child component
 24. What is Virtual DOM
 25. What is React & Why you use it.
 
